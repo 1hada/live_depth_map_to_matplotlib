@@ -1,6 +1,6 @@
 # Matplotlib and depth map fun
-A fun toy project to view RGBD datafrom a kinect into matplotlib
-The cordinates are colored and the video is live.
+A fun toy project to view RGBD data from a kinect into matplotlib
+The coordinates are colored and the video is live.
 
 ![ Matplotlib demo ](depth2plt.gif)
 
