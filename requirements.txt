@@ -1,0 +1,4 @@
+# opencv-python # you might need to install this if you feel like playing with other freenect wrappers
+matplotlib
+numpy
+
